@@ -1,5 +1,5 @@
 # Glide-Animation
-It's a simple project of showing animation using glide librery.
+It's a simple project of showing animation using glide library.
 you have to add in your repository 
 
 
